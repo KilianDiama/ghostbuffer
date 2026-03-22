@@ -1,3 +1,4 @@
+⚡ Engineered by Kiliandiama | The Diama Protocol [10/10] | All rights reserved.
 GhostBuffer 🫧
 
 GhostBuffer is a high-performance shared memory buffer for inter-process communication (IPC) in Python. It uses cache-line aligned slots, atomic C operations for synchronization, and a lightweight backpressure mechanism to maximize throughput.
